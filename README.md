@@ -1,3 +1,3 @@
 # Remote GT
 
-This repository contains the website for Remote GT community & events.
+This repository contains website for We ❤️ Remote Work community & events.
